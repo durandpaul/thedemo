@@ -1,0 +1,11 @@
+- Création de l'environnement
+
+- Création des éléments du décor
+
+- Ajout des intéraction avec le canvas 
+
+	() on click la ball tombe mais la barre s'arrête
+	() 
+
+
+- Création de la boucle
